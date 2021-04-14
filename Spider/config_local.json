@@ -1,0 +1,9 @@
+{
+    "tr_appid": "xxxxxxxxxxxxxxxxxxxxxxx",
+    "tr_secretKey": "xxxxxxxxxxxxxxxxxxxx",
+    "mail_host": "smtp.163.com",
+    "mail_user": "xxxxxxxxxxxxxx",
+    "mail_pass": "xxxxxxxxxxxxxx",
+    "sender": "xxxxxxxxxxxxxxxx",
+    "mongo_port": 9527
+}
